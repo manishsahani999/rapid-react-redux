@@ -1,5 +1,5 @@
 # rapid-react-redux
-Template for you rapid react-redux development 
+Template for your rapid react-redux development 
 
 requires Node (tested on v12.18.3)
 
@@ -14,4 +14,4 @@ Start with the development
 rapid-react-redux <project-name>
 ```
 
-**This is a rudimentary thing, maybe updated to better version**
+**This is a rudimentary thing, may update to a better version**
