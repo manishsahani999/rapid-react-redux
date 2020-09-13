@@ -1,0 +1,25 @@
+{
+  "name": "rapid-react-redux",
+  "version": "1.0.0",
+  "description": "Starter template for rapid react redux development.",
+  "bin": {
+    "rapid-react-redux": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishsahani999/rapid-react-redux.git"
+  },
+  "author": "Manish Sahani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manishsahani999/rapid-react-redux/issues"
+  },
+  "homepage": "https://github.com/manishsahani999/rapid-react-redux#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0"
+  }
+}
